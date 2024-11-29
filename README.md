@@ -1,6 +1,6 @@
 # Business-Case-Walmart---Confidence-Interval-and-CLT
 
-![Image Alt]([image_url](https://github.com/monishtejavath/Walmart-Confidence-Interval-CLT/blob/e1e4250bda70281b26615f01b68f4c6f0890fe72/Walmart_logo_1200x675-4279738954.png)).
+![Image Alt](https://github.com/monishtejavath/Walmart-Confidence-Interval-CLT/blob/e1e4250bda70281b26615f01b68f4c6f0890fe72/Walmart_logo_1200x675-4279738954.png)
 
 # Walmart - Confidence Interval and CLT 📈🛒
 
