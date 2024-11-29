@@ -70,5 +70,14 @@ Happy coding and analyzing! 📊👩‍💻👨‍💻🚀
 - Customers aged 18-45 contribute more to the spending. To enhance revenue, the company should focus on acquiring customers within this age range.
 
 **5) City Category Strategy 🏙️**
-- Male customers residing in City_Category C demonstrate higher spending compared to those in City_Category B or A. To increase revenue, the company should consider emphasizing product offerings in City_Category C.  
+- Male customers residing in City_Category C demonstrate higher spending compared to those in City_Category B or A. To increase revenue, the company should consider emphasizing product offerings in City_Category C.
+
+- ## Contribute 🤝
+Feel free to fork this repository, make improvements, and submit a pull request. Contributions are always welcome!
+
+---
+
+## Contact 📩
+For any queries or suggestions, please contact: [monishtejavath@gmail.com](mailto:monishtejavath@gmail.com.com).
+
 
